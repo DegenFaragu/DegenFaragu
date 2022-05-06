@@ -1,4 +1,4 @@
-* 👋 Hi, I’m @zkDegenFaragu
+* 👋 Hi, I’m @DegenFaragu
 * 👀 I’m interested in web2/web3 dev, DLTs, Blockchains, BTC, SOL, NFTs, and of course zero knowledge protocols.
 * 🌱 I’m currently learning how to become a serial founder.
 * 💞️ I’m looking to collaborate on building ideas.
